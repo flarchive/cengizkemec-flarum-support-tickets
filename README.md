@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of cengizkemec/support-tickets.** Not for installation: use [Packagist](https://packagist.org/packages/cengizkemec/support-tickets) or the [upstream repository](https://github.com/cengizkemec/flarum-support-tickets).
 
-**0** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^2.0`
+**19** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.1.10` | 2026-10-30 | `^2.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.1.10) |
+| `1.1.11` | 2026-11-12 | `^2.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.1.11) |
+| `1.1.9` | 2026-10-22 | `^2.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.1.9) |
+| `v1.0.0` | 2026-10-11 | `^2.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.0.0) |
+| `V1.0.1` | 2026-10-12 | `^2.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-10-12 | `^2.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.0.2) |
+| `v1.0.3` | 2026-10-12 | `^2.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.0.3) |
+| `v1.0.4` | 2026-10-12 | `^2.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.0.4) |
+| `v1.0.5` | 2026-10-12 | `^2.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.0.5) |
+| `v1.0.6` | 2026-10-12 | `^2.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tree/archive/v1.0.6) |
+
+[View all 19 versions](https://github.com/flarchive/cengizkemec-flarum-support-tickets/tags)
 
 Catalog entry: [packages/cengizkemec-flarum-support-tickets.json](https://github.com/flarchive/archive-index/blob/main/packages/cengizkemec-flarum-support-tickets.json)
 
